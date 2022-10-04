@@ -1,0 +1,3 @@
+FRUIT = "apple"
+
+print (FRUIT)
