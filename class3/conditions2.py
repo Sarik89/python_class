@@ -5,7 +5,7 @@
 #>= greater than or equal to
 #<= less than or equal to
 #input() function gets the response from the user CLI
-#RESPONSE = input("when were you born?:")
+#RESPONSE = in(input("when were you born?:"))
 # print (RESPONSE)
 # if RESPONSE >= "2000" and RESPONSE <= "2022":
 #     print ("You were born in 21st century")
